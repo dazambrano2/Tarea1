@@ -1,0 +1,13 @@
+tipo:super:25000:4000.0
+tipo:Extra:22000:5000.0
+tipo:Corriente:15000:10000.0
+tipo:Disel:12000:7000.0
+surtidor:Maria:super:0.0:Extra:0.0:Corriente:0.0:Disel:0.0
+surtidor:Juan:super:0.0:Extra:0.0:Corriente:0.0:Disel:0.0
+surtidor:David:super:0.0:Extra:0.0:Corriente:0.0:Disel:0.0
+surtidor:Ivan:super:0.0:Extra:0.0:Corriente:0.0:Disel:0.0
+empleado:Alejandra:0
+empleado:David:0
+empleado:Ivan:0
+empleado:Juan:0
+empleado:Maria:0
